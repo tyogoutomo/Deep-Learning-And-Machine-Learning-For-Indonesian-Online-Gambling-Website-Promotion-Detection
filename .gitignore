@@ -1,0 +1,5 @@
+.env
+
+# Large pre-trained word vectors
+Deep Learning/LSTM/cc.id.300.vec
+*.vec
